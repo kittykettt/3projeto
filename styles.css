@@ -61,12 +61,13 @@ body {
 }
 
 .card-front {
-    background-color: #ff0095;
+    background-color: purple;
 }
 
 .card-back {
-    background-color: #a35dff;
+    background-color: black;
     transform: rotateY(180deg);
+    color: white;
 }
 
 h2 {
